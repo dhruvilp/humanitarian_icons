@@ -45,4 +45,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Credit
 
-Icon Images: “Source: OCHA”.
+Icon Images: “Source: OCHA”
