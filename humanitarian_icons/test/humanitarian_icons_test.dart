@@ -1,5 +1,0 @@
-/*
-
-CHECK OUT example/ project!!
-
-*/
