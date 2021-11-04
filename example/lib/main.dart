@@ -30,7 +30,7 @@ class ExampleWidget extends StatelessWidget {
         scrollDirection: Axis.vertical,
         children: List.generate(iconList.length, (index) {
           return Center(
-            child: FlatButton(
+            child: TextButton(
               onPressed: () {
                 showDialog<String>(
                   context: context,

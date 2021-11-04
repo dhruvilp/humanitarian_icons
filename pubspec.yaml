@@ -1,11 +1,10 @@
 name: humanitarian_icons
 description: Humanitarian Icons package.
 version: 0.0.1
-author: Dhruvil Patel
 homepage: https://github.com/dhruvilp/humanitarian_icons
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
