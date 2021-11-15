@@ -12,8 +12,8 @@ When a disaster strikes, it is vital that all the different humanitarian agencie
 
 -- NOTE: Recently, I have been working a flutter app for emergency responders and have worked on health apps in the past so I thought this kind of library would help me and my fellow flutter developers to create their beautiful apps so here we are, I hope you like it and use it!
 
-<img align="left" src="screenshots/screenshot_1.png" height="250em" />
-<img align="right" src="screenshots/screenshot_2.png" height="250em" />
+<img align="left" src="https://github.com/dhruvilp/humanitarian_icons/blob/main/screenshots/screenshot_1.png" height="250em" />
+<img align="right" src="https://github.com/dhruvilp/humanitarian_icons/blob/main/screenshots/screenshot_2.png" height="250em" />
 
 ## Usage
 
