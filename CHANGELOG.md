@@ -5,3 +5,7 @@
 ## [1.0.0]
 
 * Migrated to null-safety, fixed deprication errors
+
+## [1.0.1]
+
+* Updated README page and fixed screenshots
