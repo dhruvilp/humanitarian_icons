@@ -1,7 +1,7 @@
 name: humanitarian_icons
 description: Humanitarian Icons package.
-version: 0.0.1
-maintainer: Dhruvil Patel (@dhruvilp )
+version: 1.0.0
+maintainer: Dhruvil Patel (@dhruvilp)
 homepage: https://github.com/dhruvilp/humanitarian_icons
 
 environment:
